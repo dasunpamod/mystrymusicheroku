@@ -1,7 +1,4 @@
 # Deploy Calls Music to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mystery-public-repo/mystrymusicheroku/)
 
-# Main repository
-
-[Click here](https://github.com/callsmusic/callsmusic)
